@@ -6,6 +6,7 @@
 - 🔴⚫Estudo e trabalho com front-end🔴⚫
 - 🔴⚫Neste momento, estudando Javascript🔴⚫
 - 🔴⚫Eu torço para o mengão, como já deve ter percebido acima🔴⚫
+- 🔴⚫Aprendi banco de dados, Portugol etc.🔴⚫
 
 <hr></hr>
 
