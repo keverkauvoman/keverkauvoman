@@ -1,8 +1,10 @@
 
 <hr></hr>
+
 - 🔴⚫Estudo e trabalho com front-end🔴⚫
 - 🔴⚫Neste momento, estudando Javascript🔴⚫
 - 🔴⚫Aprendi banco de dados, Portugol etc.🔴⚫
+
 <hr></hr>
 
 <div style="display: inline_block"><br>
