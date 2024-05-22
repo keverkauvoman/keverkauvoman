@@ -1,13 +1,10 @@
-### "O Vasco só será seleção, quando o mundo acabar..."
-🔴⚫Da Silva, Junior 2022🔴⚫
 
 <hr></hr>
 
 - 🔴⚫Estudo e trabalho com front-end🔴⚫
 - 🔴⚫Neste momento, estudando Javascript🔴⚫
 - 🔴⚫Aprendi banco de dados, Portugol etc.🔴⚫
-- 🔴⚫Eu torço para o mengão, como já deve ter percebido acima🔴⚫
-
+- 
 <hr></hr>
 
 <div style="display: inline_block"><br>
